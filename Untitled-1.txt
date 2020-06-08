@@ -1,0 +1,10 @@
+Bugs in Budgety :
+
+1.) On pressing Enter key when the cursor is at the Tick Button, the function to add item is called twice, one due to Enter and other due to mouse click
+
+
+
+
+Doubts :
+
+1.) How is init function letting us use setEventListeners everytime when it is invoked just once. Plus hoe does it work when placed in init function only.
